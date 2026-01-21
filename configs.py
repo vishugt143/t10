@@ -29,6 +29,7 @@ class Config:
         "creatings",
         "tasks",
         "tasks.",
+        "@LivegramBot",
         "accomplish"
     ]
 
